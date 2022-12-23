@@ -12,6 +12,7 @@ public class FactoryDesignPattern {
 	String res=cal.calculaatorService(100, 25);
 	System.out.println(""+res);
 	
+	
 	}
 	
 	
